@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"main.obj" 
+TO "led_make_right" 
+RAMSIZE(256) 
